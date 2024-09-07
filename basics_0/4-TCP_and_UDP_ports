@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-# Bash code to show info about network
+# show the listening ports
 netstat -lp
