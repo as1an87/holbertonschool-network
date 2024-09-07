@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # Backup the /etc/hosts file before making changes
 sudo cp /etc/hosts /etc/hosts.backup
 
